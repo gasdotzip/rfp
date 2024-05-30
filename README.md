@@ -20,9 +20,9 @@ We believe users who used the Gas LayerZero Reload should receive the bulk of th
 **Base Filter:** All transactions below $0.01 and any addresses with less than $5.00 in lifetime reload volume are excluded.
 
 **Base Activity:**
-+ **1 Point** - 5+ Deposits to 10+ Unique Chains
-+ **2 Points** - 10+ Deposits to 15+ Unique Chains
-+ **3 Points** - 15+ Deposits to 25+ Unique Chains
++ **1 Point** - 5+ Inbound Transactions and 10+ Unique Chains
++ **2 Points** - 10+ Inbound Transactions and 15+ Unique Chains
++ **3 Points** - 15+ Inbound Transactions and 25+ Unique Chains
 
 **Usage Over Time:**
 + **1 Point** - Used in 2+ Unique Months
@@ -43,9 +43,9 @@ Gas.zip Reload users were our initial userbase, and a significant amount of Gas.
 **Base Filter:** All transactions below $0.01 and any addresses with less than $10.00 in lifetime reload volume are excluded.
 
 **Base Activity:**
-+ **1 Point** - 2+ Deposits to 5+ Unique Chains
-+ **2 Points** - 5+ Deposits to 10+ Unique Chains
-+ **3 Points** - 10+ Deposits to 25+ Unique Chains
++ **1 Point** - 2+ Inbound Transactions and 5+ Unique Chains
++ **2 Points** - 5+ Inbound Transactions and 10+ Unique Chains
++ **3 Points** - 10+ Inbound Transactions and 25+ Unique Chains
 
 **Usage Over Time:**
 + **1 Point** - Used in 2+ Unique Months
