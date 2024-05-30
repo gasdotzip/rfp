@@ -86,7 +86,7 @@ A base allocation of 1.00% of the community RFP amount will be distributed to Ga
 
 ## List of Addresses:
 
-None of these addresses have been filtered for sybil activity. Our intention is to segment and reward user activity by criteria we feel best reflects an active and real user. Based on the currently published LayerZero sybil list, we would expect ~10% percentage of addresses to be filtered from this list. Additionally, we have manually removed the Gas.zip deployer address from all user lists. 
+None of these addresses have been filtered for sybil activity. Our intention is to segment and reward user activity by criteria we feel best reflects an active and real user. Based on the currently published LayerZero sybil list, we would expect ~10% percentage of addresses to be filtered from this list. Additionally, we have manually removed Gas.zip affiliated addresses from all user lists. 
 
 Points are not all equal in the distribution above. The global list calculates total eligibility amount across all four groups, and the segmented lists are the point totals for that individual group. 
 
