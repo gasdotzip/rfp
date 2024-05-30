@@ -148,13 +148,13 @@ The $GWEI LayerZero Inscriptions were an experiment launched in parallel with La
 
 
 
-**Fees Paid:**
+**Minting Fees:**
 
-+ **1 Point** - Paid $25+ Inscription Fees
++ **1 Point** - Paid $25+ Minting Fees
 
-+ **3 Points** - Paid $100+ Inscription Fees
++ **3 Points** - Paid $100+ Minting Fees
 
-+ **6 Points** - Paid $250+ Inscription Fees
++ **6 Points** - Paid $250+ Minting Fees
 
 
 
