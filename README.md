@@ -2,7 +2,7 @@
 
 
 
-[Gas.zip](https://gas.zip) is the fastest one-stop gas refuel bridge for 175+ chains and 50+ LayerZero chains where users can instantly bridge to multiple destination chains with a single inbound transaction. Since launch Gas has helped hundreds of thousands of wallets reload gas on over 200+ chains and has grown to become a [top LayerZero application](https://layerzeroscan.com/protocol/gas.zip) in just under five months. Gas upgraded to LayerZero v2 just days after its release, and we are excited to continue building products atop the LayerZero network.
+[Gas.zip](https://gas.zip) is the fastest one-stop gas refuel bridge for 200+ chains and 50+ LayerZero chains where users can instantly bridge to multiple destination chains with a single inbound transaction. Since launch Gas has helped hundreds of thousands of wallets reload gas on over 200+ chains and has grown to become a [top LayerZero application](https://layerzeroscan.com/protocol/gas.zip) in just under five months. Gas upgraded to LayerZero v2 just days after its release, and we are excited to continue building products atop the LayerZero network.
 
 
 
